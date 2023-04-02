@@ -1,2 +1,2 @@
 # Kaggle
-Projects and work from Kaggle
+All of my projects and work from the Kaggle Website
